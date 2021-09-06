@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/af7fce16-8b65-4616-a421-9157d25066c6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/QuoteApprovalBackend",
+    "appService.deploySubpath": "."
+}
