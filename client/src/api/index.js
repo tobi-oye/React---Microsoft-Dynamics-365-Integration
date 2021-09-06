@@ -104,7 +104,7 @@ export function postApprovalInfo(postBody, token) {
 
 export function acquireToken() {
   // const queryString = 'https://quoteapprovalbackend.azurewebsites.net/token';
-  const queryString = 'http://localhost:5000/token';
+  const queryString = '/token';
   return axios.get(queryString);
 }
 
